@@ -26,4 +26,16 @@ Note: git status -> This is our friend. This can be use anytime to see progress.
        *git add "src/main/java/first_git_package/MyFourthClass.java"
        *git commit -m "adding fourth class"
        *git push
-
+6. GIT PULL
+   *GIT PULL IS USED TO GET CODE FROM GITHUB
+   *Git pull=git fetch+git merge
+      NOTE: if git pull throws error then use:
+      git fetch
+      git merge
+   *NOW THAT WE HAVE OUR LOCAL UPDATED,THEN COMMIT THE CODES AND PUSH ALL TOGETHER
+       *git add .
+       *git commit -m "committing my codes"
+       *git push
+NOTE: PULL BEFORE PUSH
+    *git pull-> git add .-> git commit -m "message" -> git push
+ini
