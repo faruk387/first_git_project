@@ -19,3 +19,4 @@ Note: git status -> This is our friend. This can be use anytime to see progress.
   *Create a new commit and push the code to github
   *git add .
   *git commit -m "added my second java class"
+  *git push
