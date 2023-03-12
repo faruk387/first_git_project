@@ -39,3 +39,6 @@ Note: git status -> This is our friend. This can be use anytime to see progress.
 NOTE: PULL BEFORE PUSH
     *git pull-> git add .-> git commit -m "message" -> git push
 ini
+
+BRANCHING
+git branch -a -> show me all branch
